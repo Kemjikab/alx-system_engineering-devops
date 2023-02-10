@@ -1,2 +1,2 @@
 #!/bin/bash
-chmd 354 hello olleh
+chmod 354 hello olleh
